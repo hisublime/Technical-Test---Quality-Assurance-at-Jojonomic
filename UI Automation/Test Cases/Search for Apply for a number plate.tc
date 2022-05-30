@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search for Apply for a number plate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6d45592-ce6c-4154-b094-7d48e439fb22</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d352db2b-44a5-4b17-867d-5ea78a18e4a1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sydney Domestic Airport 2020'</defaultValue>
+      <description></description>
+      <id>d352db2b-44a5-4b17-867d-5ea78a18e4a1</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>
